@@ -1,1 +1,1 @@
-# botG.js
+Bot for Google
