@@ -19,8 +19,6 @@ let sites = {
 	'vyborcen.com':['Современный ноутбук', 'Ноутбук последнего поколения', 'Лучшие цены на ноутбуки']
 };
 
-//let keyWords = ['Векторные иконки и стикеры', 'Бесплатные иконки, иллюстрации', 'Векторная графика', 'Бесплатные иконки SVG, PNG, ICO или ICNS'];
-
 let site = Object.keys(sites)[getRandom(0, Object.keys(sites).length)];
 let keyWords = sites[site];
 let keyWord = keyWords[getRandom(0, keyWords.length)];
