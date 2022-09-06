@@ -1,1 +1,1 @@
-Bot for Google
+Bot for Bing
